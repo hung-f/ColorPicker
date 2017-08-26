@@ -1,0 +1,197 @@
+[
+    {
+        "outputFile": "D:\\AndroidNamespace\\ColorPicker\\colorpickerlibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ko\\values-ko.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "D:\\AndroidNamespace\\ColorPicker\\colorpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 43,
+                    "endOffset": 147
+                },
+                "from": {
+                    "file": "D:\\AndroidNamespace\\ColorPicker\\colorpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 43,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 152,
+                    "endColumn": 42,
+                    "endOffset": 190
+                },
+                "from": {
+                    "file": "D:\\AndroidNamespace\\ColorPicker\\colorpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 152,
+                        "endColumn": 42,
+                        "endOffset": 190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 195,
+                    "endColumn": 86,
+                    "endOffset": 277
+                },
+                "from": {
+                    "file": "D:\\AndroidNamespace\\ColorPicker\\colorpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 195,
+                        "endColumn": 86,
+                        "endOffset": 277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 282,
+                    "endColumn": 51,
+                    "endOffset": 329
+                },
+                "from": {
+                    "file": "D:\\AndroidNamespace\\ColorPicker\\colorpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 51,
+                        "endOffset": 329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 334,
+                    "endColumn": 39,
+                    "endOffset": 369
+                },
+                "from": {
+                    "file": "D:\\AndroidNamespace\\ColorPicker\\colorpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 334,
+                        "endColumn": 39,
+                        "endOffset": 369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 374,
+                    "endColumn": 39,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "D:\\AndroidNamespace\\ColorPicker\\colorpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 374,
+                        "endColumn": 39,
+                        "endOffset": 409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endColumn": 53,
+                    "endOffset": 463
+                },
+                "from": {
+                    "file": "D:\\AndroidNamespace\\ColorPicker\\colorpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 414,
+                        "endColumn": 53,
+                        "endOffset": 463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 468,
+                    "endColumn": 57,
+                    "endOffset": 521
+                },
+                "from": {
+                    "file": "D:\\AndroidNamespace\\ColorPicker\\colorpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 468,
+                        "endColumn": 57,
+                        "endOffset": 521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 526,
+                    "endColumn": 57,
+                    "endOffset": 579
+                },
+                "from": {
+                    "file": "D:\\AndroidNamespace\\ColorPicker\\colorpickerlibrary\\build\\intermediates\\bundles\\debug\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 526,
+                        "endColumn": 57,
+                        "endOffset": 579
+                    }
+                }
+            }
+        ]
+    }
+]

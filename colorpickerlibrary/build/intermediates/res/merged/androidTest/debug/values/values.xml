@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="alpha_title">Alpha</string>
+    <string name="app_name">ColorPicker</string>
+    <string name="buttonDescription">Click button to start ColorPicker dialog</string>
+    <string name="dialogTitle">ColorPicker</string>
+    <string name="negative">Cancel</string>
+    <string name="positive">OK</string>
+    <string name="presetColorsTitle">Preset Colors</string>
+    <string name="previewTitle">Color Preview (New|Old)</string>
+    <string name="startButton">Start ColorPicker</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

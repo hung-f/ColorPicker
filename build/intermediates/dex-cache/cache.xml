@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidNamespace\ColorPicker\demo\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\AndroidNamespace\ColorPicker\demo\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_608f36e60f526b994d4e4f723e97d0e36671e52f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidNamespace\ColorPicker\demo\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8426d9b30589be6c8529cd451d39b98e94cbe57f">
+        <dex dex="D:\AndroidNamespace\ColorPicker\demo\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bfd2bae193a08bad24d5322ef4d51fb86cca651a\classes.dex" />
+    </item>
+
+</items>
