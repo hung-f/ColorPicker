@@ -10,14 +10,16 @@ import android.widget.Button;
 
 import com.hungdha.colorpicker.ColorPicker;
 import com.hungdha.colorpicker.OnColorSelectedListener;
+import com.hungdha.holocolorpicker.HoloColorPicker;
+
+
 
 public class MainActivity extends Activity {
 
-	private Button startButton_1;
-	private Button startButton_2;
-	private Button startButton_3;
-	private ColorPicker colorPicker_1;
-	private ColorPicker colorPicker_2;
+	private Button colorPickerBtn;
+	private Button holoColorPickerBtn;
+	private com.hungdha.colorpicker.ColorPicker colorPicker;
+	private com.hungdha.holocolorpicker.HoloColorPicker holoColorPicker;
 	private int color_1 = Color.rgb(55, 128, 128);
 	private int color_2 = Color.argb(128, 128, 128, 255);
 	private ArrayList<Integer> presetColors = new ArrayList<Integer>();
@@ -33,31 +35,30 @@ public class MainActivity extends Activity {
 		presetColors.add(Color.argb(128, 222, 100, 18));
 		presetColors.add(Color.argb(10, 128, 128, 128));
 
-		
-		startButton_1 = (Button) findViewById(R.id.startColorPicker_1);
-		startButton_1.setBackgroundColor(color_1);
+
+		colorPickerBtn = (Button) findViewById(R.id.colorPicker);
+		colorPickerBtn.setBackgroundColor(color_1);
 		OnColorSelectedListener button1ColorSelectedListener = new OnColorSelectedListener() {
 			@Override
 			public void onSelected(int selectedColor) {
-				startButton_1.setBackgroundColor(selectedColor);
+				colorPickerBtn.setBackgroundColor(selectedColor);
 			}
 		};
-		colorPicker_1 = new ColorPicker(this, color_1, button1ColorSelectedListener, presetColors);
-		startButton_1.setOnClickListener(new OnStartButton(colorPicker_1
+		colorPicker = new ColorPicker(this, color_1, button1ColorSelectedListener, presetColors);
+		colorPickerBtn.setOnClickListener(new OnStartButton(colorPicker
 				.getDialog()));
-		
-		startButton_2 = (Button) findViewById(R.id.startColorPicker_2);
-		startButton_2.setBackgroundColor(color_2);
-		OnColorSelectedListener button2ColorSelectedListener = new OnColorSelectedListener() {
-			
+
+		/*
+		holoColorPickerBtn = (Button) findViewById(R.id.holoPicker);
+		holoColorPickerBtn.setBackgroundColor(color_2);
+		HoloColorPicker.OnColorSelectedListener button2ColorSelectedListener = new HoloColorPicker.OnColorSelectedListener() {
 			@Override
-			public void onSelected(int selectedColor) {
-				startButton_2.setBackgroundColor(selectedColor);
+			public void onColorSelected(int color) {
+				colorPickerBtn.setBackgroundColor(color);
 			}
 		};
-		colorPicker_2 = new ColorPicker(this, color_2, button2ColorSelectedListener, presetColors);
-		startButton_2.setOnClickListener(new OnStartButton(colorPicker_2
-				.getDialog()));
+		holoColorPicker = new HoloColorPicker(this, color_2, button2ColorSelectedListener, presetColors);
+		holoColorPickerBtn.setOnClickListener(new OnStartButton(holoColorPicker.getDialog()));*/
 	}
 
 	@Override

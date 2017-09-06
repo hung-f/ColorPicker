@@ -4,7 +4,8 @@
     <string name="app_name">ColorPicker</string>
     <string name="action_settings">Settings</string>
     <string name="buttonDescription">Click button to start ColorPicker dialog</string>
-    <string name="startButton">Start ColorPicker</string>
+    <string name="holoPickerButton">Holo ColorPicker</string>
+    <string name="colorPickerButton">Base ColorPicker</string>
     <string name="dialogTitle">ColorPicker</string>
     <string name="positive">OK</string>
     <string name="negative">Cancel</string>

@@ -15,32 +15,23 @@
         android:text="@string/buttonDescription" />
 
     <Button
-        android:id="@+id/startColorPicker_1"
+        android:id="@+id/colorPicker"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
         android:layout_alignParentRight="true"
         android:layout_below="@+id/buttonDescription"
         android:layout_marginTop="17dp"
-        android:text="@string/startButton" />
+        android:text="@string/colorPickerButton" />
 
     <Button
-        android:id="@+id/startColorPicker_2"
+        android:id="@+id/holoPicker"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/startColorPicker_1"
-        android:layout_alignRight="@+id/startColorPicker_1"
-        android:layout_below="@+id/startColorPicker_1"
+        android:layout_alignLeft="@+id/colorPicker"
+        android:layout_alignRight="@+id/colorPicker"
+        android:layout_below="@+id/colorPicker"
         android:layout_marginTop="22dp"
-        android:text="@string/startButton" />
-    <Button
-        android:id="@+id/startColorPicker_3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/startColorPicker_2"
-        android:layout_alignRight="@+id/startColorPicker_2"
-        android:layout_below="@+id/startColorPicker_2"
-        android:layout_marginTop="22dp"
-        android:text="@string/startButton" />
+        android:text="@string/holoPickerButton" />
 
 </RelativeLayout>
