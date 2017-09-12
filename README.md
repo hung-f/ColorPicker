@@ -22,8 +22,8 @@ Pre-requisites
 Screenshots
 -------------
 
-<img src="art/MaterialExampleDesign1.png" height="400" alt="Screenshot"/> 
-<img src="art/MaterialExampleDesign2.png" height="400" alt="Screenshot"/> 
+<img src="colorPicker.png" height="400" alt="Screenshot"/> 
+<img src="holocolorpicker.png" height="400" alt="Screenshot"/> 
 
 
 Getting Started
