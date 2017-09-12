@@ -53,7 +53,7 @@ Credits
 
 Samples
 ---------------
-  [![Google Play](http://developer.android.com/images/brand/en_generic_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=br.com.halyson.materialdesign)
+  [![Google Play](http://developer.android.com/images/brand/en_generic_rgb_wo_45.png)](#)
 
 <h2>Copyright</h2>
 
